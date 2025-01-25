@@ -1,0 +1,16 @@
+header,nav,article,main,aside,h2{
+    display: block;
+}
+aside{
+    position: relative;
+    z-index: 1;
+}
+h2{
+    background-color: rgb(102, 151, 90);
+}
+body{
+    background-color: rgb(49, 139, 24);
+}
+h3,h4{
+    font-style: italic;
+}
